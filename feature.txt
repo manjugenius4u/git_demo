@@ -1,4 +1,3 @@
-Feature 1
 added from local
 added from remote
 cool dude
